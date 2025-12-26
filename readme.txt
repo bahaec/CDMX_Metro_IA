@@ -1,0 +1,1 @@
+This project simulates a small-scale metro app for the City of Mexico. It was made in the context of a project for the class "Artificial Intelligence" at the UPM.
